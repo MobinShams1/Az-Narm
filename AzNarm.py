@@ -6,7 +6,7 @@ appetizers = [
     "زیتون پرورده"
 ]
 
-main_dishes = []
+main_dishes = ["چلو کباب","زرشک پلو با مرغ","قرمه سبزی","ته چین"]
 
 def show_menu():
     print("=== منوی رستوران ===")
